@@ -4,16 +4,16 @@ export default function Content() {
             <h1 className="font-bold text-4xl md:text-5xl text-[#BE6AB7] text-start">contenido</h1>
             <div className="flex flex-col md:flex-row items-center align-center justify-around mt-5 md:mt-10">
                 <a className="relative">
-                    <p className="absolute top-0 left-0 ml-5 mt-3 md:mt-5 font-bold text-lg md:text-xl">01 <span className="font-semibold text-base md:text-lg">| Website plants</span></p>
-                    <img src="/mockup-plants.png" className="bg-[#D8D8D8] shadow-xl w-[27rem] h-[23rem] rounded-2xl pt-10"></img>
+                    <p className="absolute top-0 left-0 ml-5 mt-3 md:mt-5 font-bold text-lg md:text-xl">01 <span className="font-semibold text-base md:text-lg mt-5 md:mt-0">| Website plants</span></p>
+                    <img src="/mockup-plants.png" className="bg-[#D8D8D8] shadow-xl w-96 md:w-[27rem] h-80 md:h-[23rem] rounded-2xl pt-2 md:pt-10"></img>
                 </a>
                 <a className="relative mt-5 md:mt-0">
-                    <p className="absolute top-0 left-0 ml-5 mt-3 md:mt-5 font-bold text-lg md:text-xl">02 <span className="font-semibold text-base md:text-lg">| Website logistic</span></p>
-                    <img src="/mockup-logistic.png" className="bg-[#D8D8D8] shadow-xl w-[27rem] h-[23rem] rounded-2xl pt-10"></img>
+                    <p className="absolute top-0 left-0 ml-5 mt-3 md:mt-5 font-bold text-lg md:text-xl">02 <span className="font-semibold text-base md:text-lg mt-5 md:mt-0">| Website logistic</span></p>
+                    <img src="/mockup-logistic.png" className="bg-[#D8D8D8] shadow-xl w-96 md:w-[27rem] h-80 md:h-[23rem] rounded-2xl pt-2 md:pt-10"></img>
                 </a>
                 <a className="relative mt-5 md:mt-0">
-                    <p className="absolute top-0 left-0 ml-5 mt-3 md:mt-5 font-bold text-lg md:text-xl">03 <span className="font-semibold text-base md:text-lg">| App Books Design</span></p>
-                    <img src="/mockup-app-books.png" className="bg-[#D8D8D8] shadow-xl w-[27rem] h-[23rem] rounded-2xl px-10 pb-5"></img>
+                    <p className="absolute top-0 left-0 ml-5 mt-3 md:mt-5 font-bold text-lg md:text-xl">03 <span className="font-semibold text-base md:text-lg mt-5 md:mt-0">| App Books Design</span></p>
+                    <img src="/mockup-app-books.png" className="bg-[#D8D8D8] shadow-xl w-96 md:w-[27rem] h-80 md:h-[23rem] rounded-2xl px-2 md:px-10 pb-0 md:pb-5"></img>
                 </a>
             </div>
         </section>

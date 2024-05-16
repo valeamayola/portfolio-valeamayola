@@ -22,7 +22,7 @@ export default function Info() {
                     <a href="mailto:valeamayola.contact@gmail.com" target="_blank" className="link link-hover flex items-center font-medium text-base md:text-lg text-white mt-5"><FontAwesomeIcon icon={faSquareEnvelope} className="w-5 h-5 mr-2" />valeamayola.contact@gmail.com</a>
                     <a href="https://www.linkedin.com/in/valentina-amayola" target="_blank" className="link link-hover flex items-center font-medium text-base md:text-lg text-white mt-5"><FontAwesomeIcon icon={faLinkedin} className="w-5 h-5 mr-2" />www.linkedin.com/in/valentina-amayola</a>
                     <a href="https://www.github.com/valeamayola" target="_blank" className="link link-hover flex items-center font-medium text-base md:text-lg text-white mt-5"><FontAwesomeIcon icon={faSquareGithub} className="w-5 h-5 mr-2" />www.github.com/valeamayola</a>
-                    <a className="link link-hover flex items-center font-medium text-base md:text-lg text-white mt-5"><FontAwesomeIcon icon={faGlobe} className="w-5 h-5 mr-2" />valeamayola.contact@gmail.com</a>
+                    <a href="https://portfolio-valeamayola.vercel.app/" target="_blank" className="link link-hover flex items-center font-medium text-base md:text-lg text-white mt-5"><FontAwesomeIcon icon={faGlobe} className="w-5 h-5 mr-2" />portfolio-valeamayola.vercel.app</a>
                 </div>
             </div>
             <div className="flex flex-col md:flex-row justify-between mt-10 md:mt-20 items-start">

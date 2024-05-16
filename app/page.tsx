@@ -10,6 +10,7 @@ import Logistic1 from "./components/Logistic1";
 import Plants1 from "./components/Plants1";
 import AppBook from "./components/AppBook";
 import AppBook1 from "./components/AppBook1";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -25,6 +26,7 @@ export default function Home() {
       <Logistic1 />
       <AppBook />
       <AppBook1 />
+      <Footer />
     </>
   );
 }
