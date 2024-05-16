@@ -5,7 +5,7 @@ export default function NavBar() {
                 <a className="btn btn-ghost text-base font-bold text-white">Valentina.</a>
             </div>
             <div className="navbar-end">
-                <a className="btn btn-sm rounded-full text-base font-medium text-white bg-[#BE6AB7] border-none">View CV</a>
+                <a className="btn btn-sm rounded-full text-sm font-medium text-white bg-[#BE6AB7] border-none">Ver CV</a>
             </div>
         </div>
     )
