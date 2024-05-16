@@ -16,6 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <link rel="icon" href="/memoji-2.png" />
       <body className={poppins.className}>{children}</body>
     </html>
   );
